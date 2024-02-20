@@ -8,7 +8,7 @@ This is a web-based voting software system developed using Django. It allows use
 To deploy this project,
 
     1. Navigate to the my_django_project directory
-    2. Type "env\Scripts\activate"
+    2. Type "env\Scripts\activate"(not manditory and if you want to use this install virtual environment then run this)
     3. Run the command "pip install ." 
     4. Once everything is installed properly, Go to next Step
     5. Run python manage.py runserver 
